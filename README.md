@@ -1,1 +1,2 @@
 # reactBlog
+# initiated the project
