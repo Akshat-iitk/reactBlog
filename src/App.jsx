@@ -1,9 +1,11 @@
 import './App.css'
+import Tempelate from './components/Tempelate'
 function App() {
-  console.log(import.meta.env.VITE_APPWRITE_URL)
+
   return (
     <>
-     <h1>A blog webApp</h1>
+    hello
+      {/* <Tempelate/> */}
     </>
   )
 }
